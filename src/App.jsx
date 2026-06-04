@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <h>Learn react with chaicode.com</h>
-      <p>this is sub heading text</p>
+      <p>This text changed to verify CI/CD</p>
     </>
   )
 }
